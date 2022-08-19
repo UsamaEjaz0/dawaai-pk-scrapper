@@ -1,0 +1,4 @@
+beautifulsoup4
+selenium
+requests
+webdriver-manager==3.5.3
